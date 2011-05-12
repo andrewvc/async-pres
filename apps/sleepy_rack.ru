@@ -1,5 +1,7 @@
 app = proc do |env|
-  sleep(rand(3) + 1)
+  sleep(2) if rand(10) == 1
+  sleep(0.1)
+ 
   [200, {'content-type' => "text/html"}, ["Hello, World"]]
 end
 
