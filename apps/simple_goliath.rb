@@ -1,5 +1,4 @@
 require 'goliath'
-require 'rbtrace'
 
 class SimpleGoliath < Goliath::API
   def response(env)
