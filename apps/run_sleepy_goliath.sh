@@ -1,2 +1,2 @@
 #!/bin/sh
-ruby sleepy_goliath.rb -e prod -p 3000
+ruby sleepy_goliath.rb -e prod -p 3001

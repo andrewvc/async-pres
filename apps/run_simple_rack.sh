@@ -1,2 +1,2 @@
 #!/bin/sh
-unicorn simple_rack.ru -p 3000
+unicorn simple_rack.ru -p 8000

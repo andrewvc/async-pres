@@ -1,5 +1,4 @@
 require 'goliath'
-require 'rbtrace'
 
 EM.set_descriptor_table_size(10_000)
  

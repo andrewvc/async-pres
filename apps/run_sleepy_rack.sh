@@ -1,2 +1,2 @@
 #!/bin/sh
-unicorn sleepy_rack.ru -p 3000
+unicorn sleepy_rack.ru -p 8000

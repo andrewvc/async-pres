@@ -1,2 +1,2 @@
 #!/bin/sh
-ruby simple_goliath.rb -e prod -p 3000
+ruby simple_goliath.rb -e prod -p 3001
